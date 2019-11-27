@@ -1,12 +1,14 @@
+//: [Previous](@previous)
+
 import Foundation
 import Combine
 import UIKit
 
 /*:
- [Previous](@previous)
  ## Foundation and Combine
  Foundation adds Combine publishers for many types, like:
  */
+
 /*:
  ### A URLSessionTask publisher and a JSON Decoding operator
  */

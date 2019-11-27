@@ -1,8 +1,10 @@
+//: [Previous](@previous)
+
 import Foundation
 import UIKit
 import Combine
+
 /*:
- [Previous](@previous)
  ## @Published properties
  A [Property Wrapper](https://www.avanderlee.com/swift/property-wrappers/) that adds a `Publisher` to any property.
 
@@ -19,6 +21,8 @@ final class FormViewController: UIViewController {
 
     override func viewDidLoad() {
         super.viewDidLoad()
+		
+		// subscribe to an @Published property using the $ wrapped accessor
         viewModel.$isSubmitAllowed
             .receive(on: DispatchQueue.main)
             .print()

@@ -1,7 +1,8 @@
+//: [Previous](@previous)
 import Foundation
 import Combine
+
 /*:
-[Previous](@previous)
 # Subjects
 - A subject is a publisher ...
 - ... relays values it receives from other publishers ...

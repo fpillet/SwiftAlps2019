@@ -1,13 +1,16 @@
+//: [Previous](@previous)
+
 import Foundation
 import UIKit
 import Combine
+
 /*:
-[Previous](@previous)
 ## Future and Promises
 - a `Future` delivers exactly one value (or an error) and completes
-- it's a lightweight version of publishers, useful in contexts where you'd use a closure callback
-- allows you to call custom methods and return a Result.success or Result.failure
+- ... it's a lightweight version of publishers, useful in contexts where you'd use a closure callback
+- ... allows you to call custom methods and return a Result.success or Result.failure
 */
+
 struct User {
 	let id: Int
 	let name: String
@@ -52,4 +55,5 @@ fetchUserPublisher
 
 fetchUserPublisher.send(0)
 fetchUserPublisher.send(5)
+
 //: [Next](@next)

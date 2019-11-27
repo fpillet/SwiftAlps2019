@@ -1,6 +1,9 @@
+//: [Previous](@previous)
+
 import Foundation
 import UIKit
 import Combine
+
 /*:
 [Previous](@previous)
 ## flatmap

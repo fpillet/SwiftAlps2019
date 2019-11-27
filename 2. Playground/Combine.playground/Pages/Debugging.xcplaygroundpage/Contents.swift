@@ -1,10 +1,11 @@
+//: [Previous](@previous)
+
 import Foundation
 import UIKit
 import Combine
 /*:
-[Previous](@previous)
 ## Debugging
-Operators which help to debug Combine publishers
+Operators which help debug Combine publishers
 
 More info: [https://www.avanderlee.com/debugging/combine-swift/‎](https://www.avanderlee.com/debugging/combine-swift/‎)
 */
@@ -71,5 +72,3 @@ let breakSubscription = subject
 	.breakpoint(receiveOutput: { value in
 	  value == "Hello!"
 	})
-
-//: [Next](@next)

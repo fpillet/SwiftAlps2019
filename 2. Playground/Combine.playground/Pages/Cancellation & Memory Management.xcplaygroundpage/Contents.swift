@@ -1,8 +1,10 @@
+//: [Previous](@previous)
+
 import Foundation
 import Combine
 import UIKit
+
 /*:
-[Previous](@previous)
 # Cancellation
 A suscription returns a `Cancellable` object
 
