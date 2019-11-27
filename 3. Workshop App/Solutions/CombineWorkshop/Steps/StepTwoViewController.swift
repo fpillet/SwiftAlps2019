@@ -13,6 +13,7 @@ import Combine
  STEP 2:
  Link the nextButton.isEnabled to the three switches isOn values.
  When all switches are set to `true`, the nextButton should be enabled as well.
+ In this step, you'll practice combining publishers!
  */
 
 final class StepTwoViewController: UIViewController {

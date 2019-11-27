@@ -10,7 +10,8 @@ import UIKit
 import Combine
 
 /*
- STEP 1:
+ STEP 1: turning properties into publishers
+
  Link the nextButton.isEnabled to the buttonSwitch.isOn.
  */
 
@@ -32,6 +33,7 @@ final class StepOneViewController: UIViewController {
 
     @IBAction func didSwitch(_ sender: UISwitch) {
         let switchValue = sender.isOn
+		// this async call is here to introduce some update complexity
         DispatchQueue.global().async {
             self.buttonSwitchValue = switchValue
         }

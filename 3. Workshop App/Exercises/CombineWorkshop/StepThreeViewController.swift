@@ -23,7 +23,7 @@ import Combine
 
 final class StepThreeViewController: UIViewController {
 
-    private let registeredUsernames = ["Jan", "Paul", "Vadim", "Kamil", "Joshua", "Antoine", "Kateryna", "Sommer", "Peter", "Benedikt", "Donny", "Andrzej"]
+    private let registeredUsernames = ["Florent", "Jan", "Paul", "Vadim", "Kamil", "Joshua", "Antoine", "Kateryna", "Sommer", "Peter", "Benedikt", "Donny", "Andrzej"]
     private let weakPasswords = ["password", "00000000", "mobiconf2019"]
 
     @IBOutlet private weak var nextButton: UIButton!

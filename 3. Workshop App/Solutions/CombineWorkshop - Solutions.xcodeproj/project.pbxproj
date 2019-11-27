@@ -83,6 +83,22 @@
 /* End PBXFrameworksBuildPhase section */
 
 /* Begin PBXGroup section */
+		3D59010B238E99F2001270B0 /* Infrastructure */ = {
+			isa = PBXGroup;
+			children = (
+				50522A4322BC075D000CE746 /* UIElements */,
+				50522A3E22BBEE78000CE746 /* GithubAPI */,
+				50C8475822B682E50008D97D /* AppDelegate.swift */,
+				50C8475A22B682E50008D97D /* SceneDelegate.swift */,
+				5067197022B95A970006761D /* WorkshopStep.swift */,
+				50C8475E22B682E50008D97D /* Main.storyboard */,
+				50C8476122B682E80008D97D /* Assets.xcassets */,
+				50C8476322B682E80008D97D /* LaunchScreen.storyboard */,
+				50C8476622B682E80008D97D /* Info.plist */,
+			);
+			path = Infrastructure;
+			sourceTree = "<group>";
+		};
 		50522A3A22BBEAE8000CE746 /* Frameworks */ = {
 			isa = PBXGroup;
 			children = (
@@ -113,7 +129,6 @@
 				5067196C22B955F50006761D /* StepTwoViewController.swift */,
 				5067196E22B959F00006761D /* StepThreeViewController.swift */,
 				50522A2C22BBE830000CE746 /* StepFourViewController.swift */,
-				5067197022B95A970006761D /* WorkshopStep.swift */,
 			);
 			path = Steps;
 			sourceTree = "<group>";
@@ -140,15 +155,8 @@
 		50C8475722B682E50008D97D /* CombineWorkshop */ = {
 			isa = PBXGroup;
 			children = (
-				50522A4322BC075D000CE746 /* UIElements */,
-				50522A3E22BBEE78000CE746 /* GithubAPI */,
+				3D59010B238E99F2001270B0 /* Infrastructure */,
 				5067196922B955E10006761D /* Steps */,
-				50C8475822B682E50008D97D /* AppDelegate.swift */,
-				50C8475A22B682E50008D97D /* SceneDelegate.swift */,
-				50C8475E22B682E50008D97D /* Main.storyboard */,
-				50C8476122B682E80008D97D /* Assets.xcassets */,
-				50C8476322B682E80008D97D /* LaunchScreen.storyboard */,
-				50C8476622B682E80008D97D /* Info.plist */,
 			);
 			path = CombineWorkshop;
 			sourceTree = "<group>";
@@ -220,7 +228,7 @@
 					};
 				};
 			};
-			buildConfigurationList = 50C8475022B682E50008D97D /* Build configuration list for PBXProject "CombineWorkshop" */;
+			buildConfigurationList = 50C8475022B682E50008D97D /* Build configuration list for PBXProject "CombineWorkshop - Solutions" */;
 			compatibilityVersion = "Xcode 9.3";
 			developmentRegion = en;
 			hasScannedForEncodings = 0;
@@ -434,7 +442,7 @@
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				CODE_SIGN_STYLE = Automatic;
 				DEVELOPMENT_TEAM = 4QMDKC8VLJ;
-				INFOPLIST_FILE = CombineWorkshop/Info.plist;
+				INFOPLIST_FILE = CombineWorkshop/Infrastructure/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = (
 					"$(inherited)",
 					"@executable_path/Frameworks",
@@ -452,7 +460,7 @@
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				CODE_SIGN_STYLE = Automatic;
 				DEVELOPMENT_TEAM = 4QMDKC8VLJ;
-				INFOPLIST_FILE = CombineWorkshop/Info.plist;
+				INFOPLIST_FILE = CombineWorkshop/Infrastructure/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = (
 					"$(inherited)",
 					"@executable_path/Frameworks",
@@ -509,7 +517,7 @@
 /* End XCBuildConfiguration section */
 
 /* Begin XCConfigurationList section */
-		50C8475022B682E50008D97D /* Build configuration list for PBXProject "CombineWorkshop" */ = {
+		50C8475022B682E50008D97D /* Build configuration list for PBXProject "CombineWorkshop - Solutions" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
 				50C8477222B682E80008D97D /* Debug */,
