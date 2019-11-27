@@ -20,12 +20,10 @@ The playground is a paged playground and is built up in several chapters
 ## Requirements
 - Xcode 11
  
-## Interesting resources
-Some interesting resources regarding Combine.
+## Useful resources
 
 - The Combine book from RayWenderlich: [Combine: Asynchronous Programming with Swift](https://store.raywenderlich.com/products/combine-asynchronous-programming-with-swift)
 - [Getting started with the Combine framework in Swift](https://www.avanderlee.com/swift/combine/)
-- [Creating a custom Combine Publisher to extend UIKit](https://www.avanderlee.com/swift/custom-combine-publisher/)
 - [Combine debugging using operators in Swift](https://www.avanderlee.com/swift/combine-swift/)
 - [RxSwift to Apples Combine](https://medium.com/gett-engineering/rxswift-to-apples-combine-cheat-sheet-e9ce32b14c5b)
 - [WWDC 2019 s721 - Combine in practice](https://developer.apple.com/videos/play/wwdc2019/721/)
@@ -34,4 +32,4 @@ Some interesting resources regarding Combine.
 
 ## Credits
 
-This playground was originally developed by Antoine Van Der Lee (@swiftlee) then augmented by Florent Pillet (@fpillet) for FrenchKit and SwiftAlps workshops.
+This playground was originally developed by Antoine Van Der Lee (@swiftlee) then augmented by Florent Pillet (@fpillet) for FrenchKit and SwiftAlps conferences.

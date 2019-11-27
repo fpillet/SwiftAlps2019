@@ -1,20 +1,10 @@
 # Combine Workshop
-A workshop to get you started with the Apple Combine framework.
 
-## How to?
-- Ask me to verify and give feedback on your step implementation
-- Implement each exercise step!
+Welcome to the SwiftAlps 2019 Combine workshop! The workshop is divided into three parts:
 
-## Four steps
-- Connect a single UISwitch to a button enabled state
-- Connect three UISwitch instances to a button enabled state
-- Handle form validation
-- Implement a search view to search for Swift repositories on Github
-
-### Extra exercises if you're really fast!
-- Step 3: Use the asynchronous `usernameAvailable()` method to validate the username
-- Step 3: Change the `UITextField` background color based on valid input to `.red` or `.green`
-- Step 4: Set `UIApplication.shared.isNetworkActivityIndicatorVisible` to `true` when the request is running
+- A short presentation of Combine and reactive programming
+- Exploration of a playground to see how the core concepts apply
+- An app workshop with four exercises to try your new skills
 
 ## Useful resources
 
@@ -25,3 +15,7 @@ A workshop to get you started with the Apple Combine framework.
 - [WWDC 2019 s721 - Combine in practice](https://developer.apple.com/videos/play/wwdc2019/721/)
 - [WWDC 2019 s722 - Introducing Combine](https://developer.apple.com/videos/play/wwdc2019/722/)
 - [Open Source insight of Combine](https://github.com/broadwaylamb/OpenCombine)
+
+# Credits
+
+This workshop was originally developed by Antoine Van Der Lee (@swiftlee) then augmented by Florent Pillet (@fpillet) for FrenchKit and SwiftAlps conferences.
