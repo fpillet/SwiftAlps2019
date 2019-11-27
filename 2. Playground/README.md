@@ -10,6 +10,7 @@ The playground is a paged playground and is built up in several chapters
 - Cancellation & memory management
 - Simple operators
 - Combining operators
+- Scheduling
 - Foundation and Combine
 - Flatmap and error types
 - @Published properties
@@ -22,7 +23,7 @@ The playground is a paged playground and is built up in several chapters
 ## Interesting resources
 Some interesting resources regarding Combine.
 
-- The book from RayWenderlich: [Combine: Asynchronous Programming with Swift](https://store.raywenderlich.com/products/combine-asynchronous-programming-with-swift)
+- The Combine book from RayWenderlich: [Combine: Asynchronous Programming with Swift](https://store.raywenderlich.com/products/combine-asynchronous-programming-with-swift)
 - [Getting started with the Combine framework in Swift](https://www.avanderlee.com/swift/combine/)
 - [Creating a custom Combine Publisher to extend UIKit](https://www.avanderlee.com/swift/custom-combine-publisher/)
 - [Combine debugging using operators in Swift](https://www.avanderlee.com/swift/combine-swift/)
