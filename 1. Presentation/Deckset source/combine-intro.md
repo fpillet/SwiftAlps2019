@@ -1,6 +1,17 @@
 # Introduction to Combine
 
 
+![fit](images/book.png)
+
+
+<BR><BR><BR><BR><BR><BR><BR><BR><BR><BR><BR><BR><BR><BR><BR><BR><BR><BR><BR><BR><BR><BR>
+#### Florent Pillet - [@fpillet](https://twitter.com/fpillet)
+#### 🇨🇭 SwiftAlps 🧀 2019
+
+---
+# Introduction to Combine
+
+
 <BR><BR><BR><BR>
 `https://github.com/fpillet/SwiftAlps2019`
 
