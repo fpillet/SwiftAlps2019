@@ -18,6 +18,6 @@ A fourth part, not part of the workshop itself, is a bonus guide for those inter
 - [WWDC 2019 session 722 - Introducing Combine](https://developer.apple.com/videos/play/wwdc2019/722/)
 - [Open Source implementation of Combine](https://github.com/broadwaylamb/OpenCombine)
 
-# Credits
+## Credits
 
-This workshop was originally developed by Antoine Van Der Lee (@swiftlee) then augmented by Florent Pillet (@fpillet) for FrenchKit and SwiftAlps conferences.
+This workshop was originally developed by Antoine Van Der Lee ((@twannl)[https://twitter.com/twannl]) then augmented by Florent Pillet ((@fpillet)[https://twitter.com/fpillet]) for FrenchKit and SwiftAlps conferences. Most of the credit goes to Antoine for the awesome workshop application.

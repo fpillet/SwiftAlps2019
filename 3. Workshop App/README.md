@@ -25,3 +25,7 @@ A workshop to get you started with the Apple Combine framework.
 - [WWDC 2019 s721 - Combine in practice](https://developer.apple.com/videos/play/wwdc2019/721/)
 - [WWDC 2019 s722 - Introducing Combine](https://developer.apple.com/videos/play/wwdc2019/722/)
 - [Open Source insight of Combine](https://github.com/broadwaylamb/OpenCombine)
+
+## Credits
+
+This workshop was originally developed by Antoine Van Der Lee ((@twannl)[https://twitter.com/twannl]) then augmented by Florent Pillet ((@fpillet)[https://twitter.com/fpillet]) for FrenchKit and SwiftAlps conferences. Most of the credit goes to Antoine for the awesome workshop application.
