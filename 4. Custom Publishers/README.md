@@ -14,4 +14,4 @@ This workshop taught the basics of Combine, but didn't go into writing your cust
 
 ## Credits
 
-This workshop was originally developed by Antoine Van Der Lee ([@twannl](https://twitter.com/twannl)) then augmented by Florent Pillet ([@fpillet](https://twitter.com/fpillet)) for FrenchKit and SwiftAlps conferences. Most of the credit goes to Antoine for the awesome workshop application.
+This workshop was originally developed by Antoine Van Der Lee ([@twannl](https://twitter.com/twannl)) then augmented by Florent Pillet ([@fpillet](https://twitter.com/fpillet)) for [FrenchKit](https://frenchkit.fr) and [SwiftAlps](https://theswiftalps.com) conferences. Most of the credit goes to Antoine for the awesome workshop application.
