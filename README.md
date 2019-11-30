@@ -20,4 +20,4 @@ A fourth part, not part of the workshop itself, is a bonus guide for those inter
 
 ## Credits
 
-This workshop was originally developed by Antoine Van Der Lee ((@twannl)[https://twitter.com/twannl]) then augmented by Florent Pillet ((@fpillet)[https://twitter.com/fpillet]) for FrenchKit and SwiftAlps conferences. Most of the credit goes to Antoine for the awesome workshop application.
+This workshop was originally developed by Antoine Van Der Lee ([@twannl](https://twitter.com/twannl)) then augmented by Florent Pillet ([@fpillet](https://twitter.com/fpillet)) for FrenchKit and SwiftAlps conferences. Most of the credit goes to Antoine for the awesome workshop application.
